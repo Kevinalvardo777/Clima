@@ -48,6 +48,8 @@ function App() {
       }
     }
     consultarAPI();
+
+    // eslint-disable-next-line
   }, [consultar]);
 
   let componente;
